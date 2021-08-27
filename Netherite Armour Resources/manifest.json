@@ -1,0 +1,23 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Netherite Armour",
+		"description": "Netherite Armour Resource Pack",
+		"uuid": "3040fc25-2592-522b-0c45-eeb12040edb2",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"generated_with": {
+			"blockbench_entity_wizard": ["1.0.1"]
+		}
+	},
+	"modules": [
+		{
+			"description": "Netherite Armour",
+			"type": "resources",
+			"uuid": "d8bb097f-5c17-f20e-b59c-58b45009c6a5",
+			"version": [1, 0, 0]
+		}
+	]
+}
