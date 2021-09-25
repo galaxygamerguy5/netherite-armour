@@ -4,7 +4,7 @@
 		"name": "Netherite Armour",
 		"description": "Netherite Armour Resource Pack",
 		"uuid": "3040fc25-2592-522b-0c45-eeb12040edb2",
-		"version": [1, 0, 0],
+		"version": [1, 0, 1],
 		"min_engine_version": [1, 17, 10]
 	},
 	"modules": [
